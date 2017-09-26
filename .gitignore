@@ -1,5 +1,9 @@
 .idea
-#data
+
+data/downloads
+data/launcher
+data\gae_proxy\certs
+
 *~
 *.pyc
 *.swp

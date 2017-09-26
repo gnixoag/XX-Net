@@ -3,5 +3,4 @@ modules:
   launcher: {allow_remote_connect: 0, control_port: 8085, last_run_version: 3.6.3,
     proxy: pac, xxnet_port: 8087}
   x_tunnel: {auto_start: 1}
-update: {last_path: 'C:\Users\gaoxing\Desktop\XX-Net-3.6.3\XX-Net-3.6.3\code\default\launcher',
-  uuid: 3b36c935-fbdc-49a8-ae97-5a93421f6a74}
+update: {last_path: 'E:\github\XX-Net\code\default\launcher', uuid: 3b36c935-fbdc-49a8-ae97-5a93421f6a74}
