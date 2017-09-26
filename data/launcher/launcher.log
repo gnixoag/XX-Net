@@ -1,25 +1,19 @@
-Sep 27 07:00:50.208 - [INFO] use build-in openssl lib
-Sep 27 07:00:50.209 - [INFO] start XX-Net 3.6.3
-Sep 27 07:00:50.209 - [DEBUG] start confirm_xxnet_exit
-Sep 27 07:00:51.224 - [DEBUG] good, xxnet:8087 cleared!
-Sep 27 07:00:52.226 - [DEBUG] good, xxnet:8085 clear!
-Sep 27 07:00:52.226 - [DEBUG] finished confirm_xxnet_exit
-Sep 27 07:00:53.227 - [INFO] module gae_proxy started
-Sep 27 07:00:53.227 - [INFO] start gae_proxy time cost:1000 ms
-Sep 27 07:00:53.388 - [INFO] module x_tunnel started
-Sep 27 07:00:53.388 - [INFO] start x_tunnel time cost:161 ms
-Sep 27 07:00:53.388 - [INFO] begin to start web control
-Sep 27 07:00:53.388 - [INFO] launcher web control started.
-Sep 27 07:00:54.728 - [INFO] get uuid:3b36c935-fbdc-49a8-ae97-5a93421f6a74
-Sep 27 07:01:54.763 - [WARNING] check_update fail:HTTPError()
-Sep 27 07:01:54.764 - [INFO] download https://raw.githubusercontent.com/XX-net/XX-Net/master/code/default/update_version.txt to E:\github\XX-Net\data\downloads\version.txt, retry:0
-Sep 27 07:02:06.026 - [WARNING] download https://raw.githubusercontent.com/XX-net/XX-Net/master/code/default/update_version.txt to E:\github\XX-Net\data\downloads\version.txt URL fail:URLError(gaierror(11001, 'getaddrinfo failed'),)
-Sep 27 07:02:06.027 - [INFO] download https://raw.githubusercontent.com/XX-net/XX-Net/master/code/default/update_version.txt to E:\github\XX-Net\data\downloads\version.txt, retry:1
-Sep 27 07:02:25.915 - [DEBUG] launcher web_control 127.0.0.1:59721 GET /config?cmd=get_config 
-Sep 27 07:02:25.983 - [DEBUG] launcher web_control 127.0.0.1:61903 GET /favicon.ico 
-Sep 27 07:02:28.635 - [DEBUG] launcher web_control 127.0.0.1:61903 GET /config?cmd=get_config 
-Sep 27 07:02:30.735 - [DEBUG] launcher web_control 127.0.0.1:59721 GET /config?cmd=get_config 
-Sep 27 07:02:35.137 - [DEBUG] launcher web_control 127.0.0.1:61903 GET /config?cmd=get_config 
-Sep 27 07:02:35.149 - [DEBUG] launcher web_control 127.0.0.1:61903 GET /config?cmd=get_config 
-Sep 27 07:02:36.055 - [WARNING] download https://raw.githubusercontent.com/XX-net/XX-Net/master/code/default/update_version.txt to E:\github\XX-Net\data\downloads\version.txt URL fail:SSLError('The read operation timed out',)
-Sep 27 07:02:36.055 - [WARNING] check update fail:IOError('get README https://raw.githubusercontent.com/XX-net/XX-Net/master/code/default/update_version.txt fail:',)
+Sep 27 07:11:56.433 - [INFO] use build-in openssl lib
+Sep 27 07:11:56.434 - [INFO] start XX-Net 3.6.3
+Sep 27 07:11:56.434 - [DEBUG] start confirm_xxnet_exit
+Sep 27 07:11:57.446 - [DEBUG] good, xxnet:8087 cleared!
+Sep 27 07:11:58.458 - [DEBUG] good, xxnet:8085 clear!
+Sep 27 07:11:58.458 - [DEBUG] finished confirm_xxnet_exit
+Sep 27 07:11:59.295 - [INFO] module gae_proxy started
+Sep 27 07:11:59.295 - [INFO] start gae_proxy time cost:837 ms
+Sep 27 07:11:59.449 - [INFO] module x_tunnel started
+Sep 27 07:11:59.449 - [INFO] start x_tunnel time cost:153 ms
+Sep 27 07:11:59.449 - [INFO] begin to start web control
+Sep 27 07:11:59.449 - [INFO] launcher web control started.
+Sep 27 07:12:00.721 - [INFO] get uuid:3b36c935-fbdc-49a8-ae97-5a93421f6a74
+Sep 27 07:12:12.614 - [DEBUG] launcher web_control 127.0.0.1:57169 GET /config?cmd=get_config 
+Sep 27 07:12:13.704 - [DEBUG] launcher web_control 127.0.0.1:57169 GET /config?cmd=get_config 
+Sep 27 07:12:13.713 - [DEBUG] launcher web_control 127.0.0.1:57170 GET /config?cmd=get_config 
+Sep 27 07:12:14.637 - [INFO] download https://raw.githubusercontent.com/XX-net/XX-Net/master/code/default/update_version.txt to E:\github\XX-Net\data\downloads\version.txt, retry:0
+Sep 27 07:12:25.899 - [WARNING] download https://raw.githubusercontent.com/XX-net/XX-Net/master/code/default/update_version.txt to E:\github\XX-Net\data\downloads\version.txt URL fail:URLError(gaierror(11001, 'getaddrinfo failed'),)
+Sep 27 07:12:25.899 - [INFO] download https://raw.githubusercontent.com/XX-net/XX-Net/master/code/default/update_version.txt to E:\github\XX-Net\data\downloads\version.txt, retry:1

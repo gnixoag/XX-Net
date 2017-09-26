@@ -2,7 +2,7 @@
 
 data/downloads
 data/launcher
-data\gae_proxy\certs
+data/gae_proxy/certs
 
 *~
 *.pyc
