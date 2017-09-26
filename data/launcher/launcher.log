@@ -1,0 +1,100 @@
+Sep 27 04:55:24.581 - [INFO] use build-in openssl lib
+Sep 27 04:55:24.597 - [INFO] start XX-Net 3.6.3
+Sep 27 04:55:24.597 - [DEBUG] start confirm_xxnet_exit
+Sep 27 04:55:25.614 - [DEBUG] good, xxnet:8087 cleared!
+Sep 27 04:55:26.637 - [DEBUG] good, xxnet:8085 clear!
+Sep 27 04:55:26.637 - [DEBUG] finished confirm_xxnet_exit
+Sep 27 04:55:28.164 - [INFO] module gae_proxy started
+Sep 27 04:55:28.164 - [INFO] start gae_proxy time cost:1526 ms
+Sep 27 04:55:28.603 - [INFO] module x_tunnel started
+Sep 27 04:55:28.603 - [INFO] start x_tunnel time cost:438 ms
+Sep 27 04:55:28.603 - [INFO] begin to start web control
+Sep 27 04:55:28.603 - [INFO] launcher web control started.
+Sep 27 04:55:29.712 - [DEBUG] launcher web_control 127.0.0.1:54458 GET /config?cmd=get_config 
+Sep 27 04:55:29.728 - [DEBUG] launcher web_control 127.0.0.1:54460 GET /config?cmd=get_config 
+Sep 27 04:55:30.072 - [INFO] get uuid:3b36c935-fbdc-49a8-ae97-5a93421f6a74
+Sep 27 04:55:34.557 - [INFO] download https://raw.githubusercontent.com/XX-net/XX-Net/master/code/default/update_version.txt to C:\Users\gaoxing\Desktop\XX-Net-3.6.3\XX-Net-3.6.3\data\downloads\version.txt, retry:0
+Sep 27 04:58:21.231 - [DEBUG] launcher web_control 127.0.0.1:55062 GET /img/logo.png 
+Sep 27 04:58:21.237 - [DEBUG] launcher web_control 127.0.0.1:55062 GET /img/fixed-width.png 
+Sep 27 04:58:21.241 - [DEBUG] launcher web_control 127.0.0.1:55062 GET /img/quit.png 
+Sep 27 04:58:21.317 - [DEBUG] launcher web_control 127.0.0.1:55062 GET /config?cmd=get_config 
+Sep 27 04:58:21.330 - [DEBUG] launcher web_control 127.0.0.1:55064 GET /config?cmd=get_config 
+Sep 27 04:58:21.340 - [DEBUG] launcher web_control 127.0.0.1:55064 GET /img/switch-mask.png 
+Sep 27 04:58:29.250 - [DEBUG] launcher web_control 127.0.0.1:55063 GET /config?cmd=get_config 
+Sep 27 04:58:36.787 - [DEBUG] launcher web_control 127.0.0.1:55063 GET /config?cmd=get_config 
+Sep 27 05:01:04.278 - [DEBUG] launcher web_control 127.0.0.1:55063 GET /config?cmd=get_config 
+Sep 27 05:01:04.287 - [DEBUG] launcher web_control 127.0.0.1:55064 GET /config?cmd=get_config 
+Sep 27 05:01:06.586 - [DEBUG] launcher web_control 127.0.0.1:55064 GET /config?cmd=get_config 
+Sep 27 05:01:31.730 - [DEBUG] launcher web_control 127.0.0.1:55064 GET /config?cmd=get_config 
+Sep 27 05:01:49.893 - [DEBUG] launcher web_control 127.0.0.1:55064 GET /config?cmd=get_config 
+Sep 27 05:04:06.022 - [DEBUG] launcher web_control 127.0.0.1:55064 GET /img/full-width.png 
+Sep 27 05:04:38.413 - [DEBUG] launcher web_control 127.0.0.1:55062 GET /config?cmd=get_config 
+Sep 27 05:04:43.258 - [DEBUG] launcher web_control 127.0.0.1:55062 GET /config?cmd=get_config 
+Sep 27 05:04:45.050 - [DEBUG] launcher web_control 127.0.0.1:55064 GET /config?cmd=get_config 
+Sep 27 05:08:38.353 - [DEBUG] launcher web_control 127.0.0.1:55064 GET /config?cmd=get_config 
+Sep 27 05:08:44.594 - [DEBUG] launcher web_control 127.0.0.1:55064 GET /config?cmd=get_config 
+Sep 27 05:08:56.821 - [DEBUG] launcher web_control 127.0.0.1:55064 GET /config?cmd=get_config 
+Sep 27 05:08:56.837 - [DEBUG] launcher web_control 127.0.0.1:55064 GET /config?cmd=get_config 
+Sep 27 05:08:56.839 - [DEBUG] launcher web_control 127.0.0.1:55062 GET /update?cmd=get_progress 
+Sep 27 05:09:10.986 - [DEBUG] launcher web_control 127.0.0.1:55064 GET /config?cmd=get_config 
+Sep 27 05:09:20.395 - [DEBUG] launcher web_control 127.0.0.1:55064 GET /config?cmd=get_config 
+Sep 27 05:09:22.033 - [DEBUG] launcher web_control 127.0.0.1:55062 GET /config?cmd=get_config 
+Sep 27 05:09:24.420 - [DEBUG] launcher web_control 127.0.0.1:55062 GET /config?cmd=get_config 
+Sep 27 05:09:26.057 - [DEBUG] launcher web_control 127.0.0.1:55064 GET /config?cmd=get_config 
+Sep 27 05:09:28.069 - [DEBUG] launcher web_control 127.0.0.1:55062 GET /config?cmd=get_config 
+Sep 27 05:09:29.417 - [DEBUG] launcher web_control 127.0.0.1:55062 GET /config?cmd=get_config 
+Sep 27 05:09:30.766 - [DEBUG] launcher web_control 127.0.0.1:55064 GET /config?cmd=get_config 
+Sep 27 05:09:30.775 - [DEBUG] launcher web_control 127.0.0.1:55064 GET /config?cmd=get_config 
+Sep 27 05:09:57.368 - [DEBUG] launcher web_control 127.0.0.1:57055 GET /config?cmd=get_config 
+Sep 27 05:10:13.514 - [DEBUG] launcher web_control 127.0.0.1:55064 GET /config?cmd=get_config 
+Sep 27 05:10:15.344 - [DEBUG] launcher web_control 127.0.0.1:55064 GET /config?cmd=get_config 
+Sep 27 05:10:15.354 - [DEBUG] launcher web_control 127.0.0.1:55064 GET /config?cmd=get_config 
+Sep 27 05:12:24.607 - [DEBUG] launcher web_control 127.0.0.1:55062 GET /config?cmd=get_config 
+Sep 27 05:13:01.305 - [DEBUG] launcher web_control 127.0.0.1:55062 GET /config?cmd=get_config 
+Sep 27 05:13:03.347 - [DEBUG] launcher web_control 127.0.0.1:55064 GET /config?cmd=get_config 
+Sep 27 05:13:06.371 - [DEBUG] launcher web_control 127.0.0.1:55062 GET /config?cmd=get_config 
+Sep 27 05:13:08.847 - [DEBUG] launcher web_control 127.0.0.1:55062 GET /config?cmd=get_config 
+Sep 27 05:13:11.735 - [DEBUG] launcher web_control 127.0.0.1:55062 GET /config?cmd=get_config 
+Sep 27 05:13:11.745 - [DEBUG] launcher web_control 127.0.0.1:57055 GET /config?cmd=get_config 
+Sep 27 05:14:51.765 - [DEBUG] launcher web_control 127.0.0.1:57055 GET /config?cmd=get_config 
+Sep 27 05:14:51.782 - [DEBUG] launcher web_control 127.0.0.1:57055 GET /config?cmd=get_config 
+Sep 27 05:14:51.865 - [DEBUG] launcher web_control 127.0.0.1:57055 GET /favicon.ico 
+Sep 27 05:15:39.960 - [DEBUG] launcher web_control 127.0.0.1:55062 GET /config?cmd=get_config 
+Sep 27 05:15:41.738 - [DEBUG] launcher web_control 127.0.0.1:55062 GET /config?cmd=get_config 
+Sep 27 05:15:41.745 - [DEBUG] launcher web_control 127.0.0.1:55062 GET /config?cmd=get_config 
+Sep 27 05:15:45.491 - [DEBUG] launcher web_control 127.0.0.1:55064 GET /config?cmd=get_config 
+Sep 27 05:17:59.862 - [DEBUG] launcher web_control 127.0.0.1:55064 GET /config?cmd=get_config 
+Sep 27 05:18:03.851 - [DEBUG] launcher web_control 127.0.0.1:55062 GET /config?cmd=get_config 
+Sep 27 05:18:05.767 - [DEBUG] launcher web_control 127.0.0.1:55062 GET /config?cmd=get_config 
+Sep 27 05:18:08.274 - [DEBUG] launcher web_control 127.0.0.1:55064 GET /config?cmd=get_config 
+Sep 27 05:18:11.190 - [DEBUG] launcher web_control 127.0.0.1:55062 GET /config?cmd=get_config 
+Sep 27 05:18:11.227 - [DEBUG] launcher web_control 127.0.0.1:55064 GET /favicon.ico 
+Sep 27 05:18:12.793 - [DEBUG] launcher web_control 127.0.0.1:55064 GET /config?cmd=get_config 
+Sep 27 05:18:12.823 - [DEBUG] launcher web_control 127.0.0.1:55064 GET /favicon.ico 
+Sep 27 05:18:14.175 - [DEBUG] launcher web_control 127.0.0.1:55064 GET /config?cmd=get_config 
+Sep 27 05:18:14.218 - [DEBUG] launcher web_control 127.0.0.1:55064 GET /favicon.ico 
+Sep 27 05:18:15.245 - [DEBUG] launcher web_control 127.0.0.1:55064 GET /config?cmd=get_config 
+Sep 27 05:18:15.283 - [DEBUG] launcher web_control 127.0.0.1:55064 GET /favicon.ico 
+Sep 27 05:18:15.654 - [DEBUG] launcher web_control 127.0.0.1:55064 GET /config?cmd=get_config 
+Sep 27 05:18:15.710 - [DEBUG] launcher web_control 127.0.0.1:55064 GET /favicon.ico 
+Sep 27 05:40:58.552 - [DEBUG] launcher web_control 127.0.0.1:60315 GET /img/logo.png 
+Sep 27 05:40:58.561 - [DEBUG] launcher web_control 127.0.0.1:60315 GET /img/fixed-width.png 
+Sep 27 05:40:58.563 - [DEBUG] launcher web_control 127.0.0.1:60315 GET /img/quit.png 
+Sep 27 05:40:58.694 - [DEBUG] launcher web_control 127.0.0.1:60315 GET /config?cmd=get_config 
+Sep 27 05:40:58.709 - [DEBUG] launcher web_control 127.0.0.1:60315 GET /config?cmd=get_config 
+Sep 27 05:40:58.722 - [DEBUG] launcher web_control 127.0.0.1:60315 GET /img/switch-mask.png 
+Sep 27 05:41:01.567 - [DEBUG] launcher web_control 127.0.0.1:60315 GET /config?cmd=get_config 
+Sep 27 05:44:03.249 - [DEBUG] launcher web_control 127.0.0.1:60315 GET /config?cmd=get_config 
+Sep 27 05:44:06.078 - [DEBUG] launcher web_control 127.0.0.1:60315 GET /config?cmd=get_config 
+Sep 27 05:44:20.855 - [DEBUG] launcher web_control 127.0.0.1:60315 GET /config?cmd=get_config 
+Sep 27 05:48:45.338 - [DEBUG] launcher web_control 127.0.0.1:60315 GET /config?cmd=get_config 
+Sep 27 05:48:45.344 - [DEBUG] launcher web_control 127.0.0.1:60315 GET /config?cmd=get_config 
+Sep 27 05:48:46.431 - [DEBUG] launcher web_control 127.0.0.1:61999 GET /config?cmd=get_config 
+Sep 27 05:49:50.813 - [DEBUG] launcher web_control 127.0.0.1:60315 GET /config?cmd=get_config 
+Sep 27 05:49:50.821 - [DEBUG] launcher web_control 127.0.0.1:61999 GET /config?cmd=get_config 
+Sep 27 05:50:25.479 - [DEBUG] launcher web_control 127.0.0.1:61999 GET /config?cmd=get_config 
+Sep 27 05:51:25.910 - [DEBUG] launcher web_control 127.0.0.1:61999 GET /config?cmd=get_config 
+Sep 27 05:51:25.921 - [DEBUG] launcher web_control 127.0.0.1:61999 GET /config?cmd=get_config 
+Sep 27 05:51:29.563 - [DEBUG] launcher web_control 127.0.0.1:61998 GET /config?cmd=get_config 
+Sep 27 05:51:29.573 - [DEBUG] launcher web_control 127.0.0.1:61998 GET /config?cmd=get_config 
+Sep 27 05:51:29.628 - [DEBUG] launcher web_control 127.0.0.1:61998 GET /favicon.ico 

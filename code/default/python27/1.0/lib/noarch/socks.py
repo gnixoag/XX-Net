@@ -76,7 +76,6 @@ PRINTABLE_PROXY_TYPES = {SOCKS4: "SOCKS4", SOCKS5: "SOCKS5", HTTP: "HTTP"}
 
 _orgsocket = _orig_socket = socket.socket
 
-
 class ProxyError(IOError):
     """
     socket_err contains original socket.error exception.
@@ -90,11 +89,6 @@ class ProxyError(IOError):
 
     def __str__(self):
         return self.msg
-
-    def __repr__(self):
-        # for %r
-        return repr(self.msg)
-
 
 class GeneralProxyError(ProxyError): pass
 class ProxyConnectionError(ProxyError): pass
