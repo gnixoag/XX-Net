@@ -1,19 +1,37 @@
-Sep 27 07:11:56.433 - [INFO] use build-in openssl lib
-Sep 27 07:11:56.434 - [INFO] start XX-Net 3.6.3
-Sep 27 07:11:56.434 - [DEBUG] start confirm_xxnet_exit
-Sep 27 07:11:57.446 - [DEBUG] good, xxnet:8087 cleared!
-Sep 27 07:11:58.458 - [DEBUG] good, xxnet:8085 clear!
-Sep 27 07:11:58.458 - [DEBUG] finished confirm_xxnet_exit
-Sep 27 07:11:59.295 - [INFO] module gae_proxy started
-Sep 27 07:11:59.295 - [INFO] start gae_proxy time cost:837 ms
-Sep 27 07:11:59.449 - [INFO] module x_tunnel started
-Sep 27 07:11:59.449 - [INFO] start x_tunnel time cost:153 ms
-Sep 27 07:11:59.449 - [INFO] begin to start web control
-Sep 27 07:11:59.449 - [INFO] launcher web control started.
-Sep 27 07:12:00.721 - [INFO] get uuid:3b36c935-fbdc-49a8-ae97-5a93421f6a74
-Sep 27 07:12:12.614 - [DEBUG] launcher web_control 127.0.0.1:57169 GET /config?cmd=get_config 
-Sep 27 07:12:13.704 - [DEBUG] launcher web_control 127.0.0.1:57169 GET /config?cmd=get_config 
-Sep 27 07:12:13.713 - [DEBUG] launcher web_control 127.0.0.1:57170 GET /config?cmd=get_config 
-Sep 27 07:12:14.637 - [INFO] download https://raw.githubusercontent.com/XX-net/XX-Net/master/code/default/update_version.txt to E:\github\XX-Net\data\downloads\version.txt, retry:0
-Sep 27 07:12:25.899 - [WARNING] download https://raw.githubusercontent.com/XX-net/XX-Net/master/code/default/update_version.txt to E:\github\XX-Net\data\downloads\version.txt URL fail:URLError(gaierror(11001, 'getaddrinfo failed'),)
-Sep 27 07:12:25.899 - [INFO] download https://raw.githubusercontent.com/XX-net/XX-Net/master/code/default/update_version.txt to E:\github\XX-Net\data\downloads\version.txt, retry:1
+Sep 28 06:36:06.533 - [INFO] use build-in openssl lib
+Sep 28 06:36:06.533 - [INFO] start XX-Net 3.6.3
+Sep 28 06:36:06.533 - [DEBUG] start confirm_xxnet_exit
+Sep 28 06:36:07.580 - [DEBUG] good, xxnet:8087 cleared!
+Sep 28 06:36:08.611 - [DEBUG] good, xxnet:8085 clear!
+Sep 28 06:36:08.611 - [DEBUG] finished confirm_xxnet_exit
+Sep 28 06:36:10.814 - [INFO] module gae_proxy started
+Sep 28 06:36:10.814 - [INFO] start gae_proxy time cost:2202 ms
+Sep 28 06:36:11.455 - [INFO] module x_tunnel started
+Sep 28 06:36:11.455 - [INFO] start x_tunnel time cost:641 ms
+Sep 28 06:36:11.455 - [INFO] begin to start web control
+Sep 28 06:36:11.455 - [INFO] launcher web control started.
+Sep 28 06:36:12.892 - [INFO] get uuid:3b36c935-fbdc-49a8-ae97-5a93421f6a74
+Sep 28 06:36:26.313 - [DEBUG] start to terminate gae_proxy module
+Sep 28 06:36:26.313 - [DEBUG] module gae_proxy stopping
+Sep 28 06:36:26.615 - [INFO] module gae_proxy stopped
+Sep 28 06:36:26.615 - [DEBUG] start to terminate x_tunnel module
+Sep 28 06:36:26.615 - [DEBUG] module x_tunnel stopping
+Sep 28 06:36:26.615 - [INFO] module x_tunnel stopped
+r/code/default/update_version.txt to E:\github\XX-Net\data\downloads\version.txt, retry:0
+Sep 28 06:36:23.211 - [DEBUG] launcher web_control 127.0.0.1:57207 GET /config?cmd=get_config 
+Sep 28 06:36:23.245 - [DEBUG] launcher web_control 127.0.0.1:57207 GET /config?cmd=get_config 
+Sep 28 06:36:23.247 - [DEBUG] launcher web_control 127.0.0.1:57211 GET /config?cmd=get_config 
+Sep 28 06:36:23.251 - [DEBUG] launcher web_control 127.0.0.1:57212 GET /config?cmd=get_config 
+Sep 28 06:36:23.263 - [DEBUG] launcher web_control 127.0.0.1:57213 GET /config?cmd=get_config 
+Sep 28 06:36:23.273 - [DEBUG] launcher web_control 127.0.0.1:57205 GET /config?cmd=get_config 
+Sep 28 06:36:29.155 - [DEBUG] launcher web_control 127.0.0.1:57244 GET /config?cmd=get_config 
+Sep 28 06:36:29.186 - [DEBUG] launcher web_control 127.0.0.1:57244 GET /config?cmd=get_config 
+Sep 28 06:36:29.202 - [DEBUG] launcher web_control 127.0.0.1:57243 GET /config?cmd=get_config 
+Sep 28 06:36:29.202 - [DEBUG] launcher web_control 127.0.0.1:57254 GET /config?cmd=get_config 
+Sep 28 06:36:29.276 - [DEBUG] launcher web_control 127.0.0.1:57260 GET /config?cmd=get_config 
+Sep 28 06:36:29.279 - [DEBUG] launcher web_control 127.0.0.1:57259 GET /config?cmd=get_config 
+Sep 28 06:36:38.319 - [DEBUG] launcher web_control 127.0.0.1:57259 GET /config?cmd=get_config 
+Sep 28 06:36:39.778 - [DEBUG] launcher web_control 127.0.0.1:57259 GET /config?cmd=get_config 
+Sep 28 06:36:41.619 - [DEBUG] launcher web_control 127.0.0.1:57260 GET /config?cmd=get_config 
+Sep 28 06:36:43.673 - [DEBUG] launcher web_control 127.0.0.1:57260 GET /config?cmd=get_config 
+Sep 28 06:36:46.036 - [DEBUG] launcher web_control 127.0.0.1:57260 GET /config?cmd=get_config 

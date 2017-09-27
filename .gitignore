@@ -1,7 +1,7 @@
 .idea
 
 data/downloads
-data/launcher
+data/launcher/
 data/gae_proxy/certs
 
 *~
@@ -12,3 +12,5 @@ data/gae_proxy/certs
 
 .DS_Store
 desktop.ini
+*.log
+data/x_tunnel/client.log
