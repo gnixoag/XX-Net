@@ -14,3 +14,4 @@ data/gae_proxy/certs
 desktop.ini
 *.log
 data/x_tunnel/client.log
+data/launcher/launcher.log
